@@ -2,7 +2,7 @@
 	"kind" : "SmolAvali",
 
 	"charCreationTooltip" : {
-		"title" : "Smol Avali",
+		"title" : "SmolAvali",
 		"subTitle" : "Avali but smol",
 		"description" : "Fun Fact, Avali are only about a meter tall. So what gives? are the rest of those Avali using some growth tech to become larger? are they ashamed of their true size? either way you know you're smol, and you're proud of it." 
 	},
@@ -200,32 +200,26 @@
 			"image" : "/interface/title/male.png",
 
 			//the image used to represent the race in the character creation interface 
-			"characterImage" : "/interface/title/SmolAvalimale.png",
+			"characterImage" : "/interface/title/smolavalimale.png",
 
 			//The available hair options. these are the name of the files in the hair folder withouth the extention
 			"hair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19"], //  "hair2cut" "hair9cut"
 
       "shirt" : [ "maskchest" ],
       "pants" : [ "maskpants" ],
-			//The facial hair group name, it's also the name of the folder containing all the options in he humanoid folder of your race,
-			//for example the apex has a facial hair group called beardmale. therefore a folder in the apex humanoid folder will need to
-			//exists to contain all the male beard options.
 			"facialHairGroup" : "",
 
-			//This is the list of available facial hair options, just like for the hair options, the file names don't include the extention
 			"facialHair" : [ ],
 			
-			//It works teh same way as your typical facial hair but is restrained to your character's head and will be maked out if you mask option goes outside of the character's head.
 			"facialMaskGroup" : "",
 			
-			//This is the list of available facial mask options, just like for the hair options, the file names don't include the extention
 			"facialMask" : [ ]
 		},
 		{
 			//Same thing as the male but for the female
 			"name" : "female",
 			"image" : "/interface/title/female.png",
-			"characterImage" : "/interface/title/SmolAvalifemale.png",
+			"characterImage" : "/interface/title/smolavalifemale.png",
 			"hair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19" ], //  "hair2cut" "hair9cut"
 			"shirt" : [ "maskchest" ],
 			"pants" : [ "maskpants" ],
@@ -247,7 +241,8 @@
   { "CCB07F" : "435365", "A2885C" : "384356", "786440" : "30333E", "42331C" : "23252D" }, //Stone
   { "CCB07F" : "FCF4D1", "A2885C" : "EBDEB8", "786440" : "BBB89D", "42331C" : "95957F" }, //Dust
   { "CCB07F" : "C9B086", "A2885C" : "AB9D71", "786440" : "817C5D", "42331C" : "5B5B44" }, //Sand
-  { "CCB07F" : "87765A", "A2885C" : "72694C", "786440" : "56533E", "42331C" : "3D3D2D" } //Dirt
+  { "CCB07F" : "87765A", "A2885C" : "72694C", "786440" : "56533E", "42331C" : "3D3D2D" }, //Dirt
+  { "CCB07F" : "8ea0e0", "A2885C" : "7289da", "786440" : "5169c1", "42331C" : "2c396d" } //Blurple
   ],
 
   "undyColor" : [
@@ -269,7 +264,9 @@
   { "67FFA2" : "435365", "1AD589" : "384356", "1B8D78" : "30333E", "1C3B42" : "23252D" }, //Stone
   { "67FFA2" : "FCF4D1", "1AD589" : "EBDEB8", "1B8D78" : "BBB89D", "1C3B42" : "95957F" }, //Dust
   { "67FFA2" : "CAAF86", "1AD589" : "AC9C71", "1B8D78" : "827B5D", "1C3B42" : "5C5A44" }, //Sand
-  { "67FFA2" : "88755A", "1AD589" : "73684C", "1B8D78" : "57523E", "1C3B42" : "3E3C2D" } //Dirt
+  { "67FFA2" : "88755A", "1AD589" : "73684C", "1B8D78" : "57523E", "1C3B42" : "3E3C2D" }, //Dirt
+  { "67FFA2" : "8ea0e0", "1AD589" : "7289da", "1B8D78" : "5169c1", "1C3B42" : "2c396d" } //Blurple
+
   ],
 
   "hairColor" : [
@@ -291,6 +288,8 @@
   { "787878" : "67FFA1", "4E4E4E" : "1AD588", "3C3C3C" : "1B8D77", "212121" : "1C3B41" }, //Aqua
   { "787878" : "68E0FF", "4E4E4E" : "1CB4D5", "3C3C3C" : "17688D", "212121" : "1C2F42" }, //Sky
   { "787878" : "FF67F2", "4E4E4E" : "D51A9E", "3C3C3C" : "8D1B52", "212121" : "421C20" }, //Candy
-  { "787878" : "C82FFF", "4E4E4E" : "8D1DD5", "3C3C3C" : "48148D", "212121" : "2E1C42" } //Violet
+  { "787878" : "C82FFF", "4E4E4E" : "8D1DD5", "3C3C3C" : "48148D", "212121" : "2E1C42" }, //Violet
+  { "787878" : "8ea0e0", "4E4E4E" : "7289da", "3C3C3C" : "5169c1", "212121" : "2c396d" } //Blurple
+
   ]
 }
