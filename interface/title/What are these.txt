@@ -1,0 +1,11 @@
+These images serves as the icon for your race in the charactrer creation interface.
+If you wish to change these, you can edit them to your heart's content, but for the sake of
+mod compatibility, you will need to rename them so that other mods made using this mod template
+who forgot to rename these files won't override your character creation icons.
+
+When renaming files please make sure that the name of the files follow these templates:
+Female File: <YourRaceId>female.png
+  Male File: <YourRaceId>male.png
+
+Where:
+  <YourRaceId> is the "kind" value you assigned to your species in your .species file.

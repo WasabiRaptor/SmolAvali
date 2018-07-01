@@ -1,0 +1,11 @@
+[
+  {
+    "op": "add",
+    "path": "/species/SmolAvali",
+    "value": {
+      "aiFrames": "avaliai.png",
+      "portraitFrames": "portraits/avaliportrait.png",
+      "staticFrames": "staticavali.png"
+    }
+  }
+]

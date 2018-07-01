@@ -1,0 +1,13 @@
+These are the files used for the beam up and beam down loading cinematics/screens. You should recolor them using
+the "effectDirectives" in your .species file, so that the beam is the same color as the beam up and beam down
+animations shown when the player get's beamed to and from a world, instance or ship.
+
+When renaming files please make sure that the name of the files follow these templates:
+   Cinematic file: teleport_<YourRaceId>.cinematic
+   Up frames file: up_<YourRaceId>.frames
+  Up sprite sheet: up_<YourRaceId>.png
+ Down frames file: warpdown_<YourRaceId>.frames
+Down sprite sheet: warpdown_<YourRaceId>.png
+
+Where:
+  <YourRaceId> is the "kind" value you assigned to your species in your .species file.

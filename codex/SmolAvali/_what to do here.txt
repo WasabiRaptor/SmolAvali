@@ -1,0 +1,10 @@
+These are the codexes your race will either have unlocked by default or by finding them while adventuring.
+
+By convention we name the codex files and icons using this template:
+codexes: <YourRaceId>history<CodexNumber>
+  icons: <YourRaceId>cover<CoverNumber>
+
+Where:
+  <YourRaceId> is the kind/raceid you assinged to your species in your .species file.
+  <CodexNumber> is a number identifying the option uniquely, usually starting by 1.
+  <CoverNumber> is a number identifying the option uniquely, usually starting by 1.

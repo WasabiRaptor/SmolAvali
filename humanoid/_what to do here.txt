@@ -1,0 +1,5 @@
+The folder included in this template is the folder that must contain all the race's body grahics.
+
+When you are renaming files to match your speceies's race id, this folder needs to be the same name as your species's kind value set in your .species file.
+
+For example, if your race id/kind is "trols", the folder would be renamed to "trols"
