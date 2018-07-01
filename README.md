@@ -1,0 +1,2 @@
+# SmolAvali
+Avali but smol
