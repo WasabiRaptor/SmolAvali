@@ -20,14 +20,14 @@ Down sprite sheet: deploypodin_<YourRaceId>.png
 
 in deploy_<YourRaceId>.cinematic
 line 212 replace:
-          "image" : "/cinematics/teleport/deploypodin_SmolAvali.png:<frame>"
+          "image" : "/cinematics/teleport/deploypodin_smolavali.png:<frame>"
 by
           "image" : "/cinematics/teleport/deploypodin_<YourRaceId>.png:<frame>"
 
 and
 
 line 212 replace:
-"image" : "/cinematics/teleport/deploypod_SmolAvali.png:<frame>"
+"image" : "/cinematics/teleport/deploypod_smolavali.png:<frame>"
 by
 "image" : "/cinematics/teleport/deploypod_<YourRaceId>.png:<frame>"
 

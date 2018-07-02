@@ -1,6 +1,6 @@
 {
 	//A unique id for this codex
-	"id" : "SmolAvalihistory1",
+	"id" : "smolavalihistory1",
 
 	//this should stay commented unless you have the burning desire to make it so that the
 	//codex is part of one of the vanilla species category. 
@@ -15,7 +15,7 @@
 	"description" : "A description of the content of this codex",
 
 	//the icon used both for the in game item and codex library entry.
-	"icon" : "SmolAvalicover1.png",
+	"icon" : "smolavalicover1.png",
 
 	//This where you write you greatest stories, or worst fan fictions,
 	//To insert a new line character using \n will not be good enough.

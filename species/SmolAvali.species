@@ -1,17 +1,17 @@
 {
-	"kind" : "SmolAvali",
+	"kind" : "smolavali",
 
 	"charCreationTooltip" : {
-		"title" : "SmolAvali",
+		"title" : "Smol Avali",
 		"subTitle" : "Avali but smol",
 		"description" : "Fun Fact, Avali are only about a meter tall. So what gives? are the rest of those Avali using some growth tech to become larger? are they ashamed of their true size? either way you know you're smol, and you're proud of it." 
 	},
 
-	"humanoidConfig" : "/species/SmolAvalibodyconfig.config",
-	"nameGen" : [ "/species/SmolAvalinamegen.config:names", "/species/SmolAvalinamegen.config:names" ],
+	"humanoidConfig" : "/species/smolavalibodyconfig.config",
+	"nameGen" : [ "/species/smolavalinamegen.config:names", "/species/smolavalinamegen.config:names" ],
 	"ouchNoises" : [ "/sfx/humanoid/avalihurt.ogg", "/sfx/humanoid/humanhurt_female1.ogg" ],
 	"charGenTextLabels" : [ "Fluff color", "Plumage", "N/A", "N/A", "Trim color", "Feather color", "N/A", "N/A", "Smol Avali", "N/A" ],
-	"skull" : "/humanoid/SmolAvali/dead.png",
+	"skull" : "/humanoid/smolavali/dead.png",
 
 	"defaultBlueprints" : {
 		 "tier1" : [

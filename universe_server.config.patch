@@ -6,7 +6,7 @@
 			//If you wish to create your own ships, change the paths to your .structure files.
 			//Note: we do not provide template for ships.
 			"op" : "add",
-			"path" : "/speciesShips/SmolAvali",
+			"path" : "/speciesShips/smolavali",
 			"value" : [
 				"/ships/avali/avalit0.structure",
 				"/ships/avali/avalit1.structure",

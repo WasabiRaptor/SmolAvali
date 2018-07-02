@@ -8,5 +8,5 @@ portrait: <YourRaceId>questportrait.png
 Where:
   <YourRaceId> is the "kind" value you assigned to your species in your .species file,
     in all of the cases here, the value race name must start with a capital letter, for example:
-    SmolAvaliAI.png, SmolAvaliAI.frames, staticSmolAvali.png
+    smolavaliAI.png, smolavaliAI.frames, staticsmolavali.png
     ¯               ¯                        ¯
