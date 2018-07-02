@@ -1,0 +1,11 @@
+NOTE: Not Sure if that is still used in the game but since the game asset still contains them,
+we recommend to keep these.
+
+Pre 1.0 these were used in the ai console to assign techs but we have no idea whay they do anymore.
+
+When renaming files please make sure that the name of the files follow these templates:
+Female file:<YourRaceId>-male.png
+  Male file:<YourRaceId>-female.png
+
+Where:
+  <YourRaceId> is the "kind" value you assigned to your species in your .species file.

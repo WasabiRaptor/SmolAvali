@@ -1,0 +1,9 @@
+These files are the most important files for your race as they allow you to configure the main settings of your species.
+
+When renaming files please make sure that the name of the files follow these templates:
+   .species file: <YourRaceId>.species
+body config file: <YourRaceId>bodyconfig.config or <YourRaceId>oid.config
+   name gen file: <YourRaceId>namegen.config
+
+Where:
+  <YourRaceId> is the "kind" value you assigned to your species in your .species file.

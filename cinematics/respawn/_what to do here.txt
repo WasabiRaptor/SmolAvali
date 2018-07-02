@@ -1,0 +1,3 @@
+The "smolavali" folder should be renamed to the name that the "kind" value in your.species file is set to. 
+
+For example, if your race id/kind is "trols", the folder would be renamed to "trols"

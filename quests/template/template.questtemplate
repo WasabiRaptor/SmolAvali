@@ -1,0 +1,57 @@
+{
+	//the id to uniquely identify your quest
+	"id" : "template",
+	
+	//optional
+	//Sets which quest are required to be completed for this quest to be given to the player.
+	//"prerequisites" : [ "protectorate" ],
+	
+	//Used to specify the priority of the quest. If set to true, it will be displayed in the
+	//main quests area of the player's quest log.
+	"mainQuest" : true,
+	
+	//Is set to true, the quest will not be shown in the player's quest log.
+	"invisible" : false,
+	
+	//If set to true, the user will not be prompted to accept the quest,
+	//this is extremely practical when you create quests that are given to the player
+	//at the start of the game as it won't show a bunch of prompt making for an annoying debut.
+	"logOnly" : false,
+	
+	//The title of the quest
+	"title" : "Boot Up",
+	
+	//The text displayed upon receiving the quest and when looking at the quest in the quest log.
+	"text" : "The ship is damaged and you are floating alone in space. Your best bet is to boot up the ship computer and see if anything good comes of it.",
+	
+	//The text shown when the quest is completed
+	"completionText" : "SAIL is awake! Now you have some guidance, and some company.",
+	
+	//the amount of pixel given out to the player when the quest is completed 
+	"moneyRange" : [50, 50],
+	
+	//the reward given to the player when completing the quest
+	"rewards" : [
+		[ ]
+	],
+	
+	//if true the quest cannot be refused nor can it be abandoned
+	"canBeAbandoned" : false,
+	
+	//how many times a second the script is updated
+	//0 is only when the functions are called, which is not recommended in this situation
+	//1 is once every 1 frame
+	//2 is once every 2 frames 
+	//3 is once every 3 frames
+	//...
+	//n is once every n frames 
+	"updateDelta" : 10,
+	
+	//the script that will create the requirements and competition checks for the quest 
+	"script" : "/quests/scripts/main.lua",
+	
+	//the configuration for your quest, we highly recommend you go give a look to the
+	//games's asset to see what you need for your specific needs.
+	"scriptConfig" : {
+	}
+}
