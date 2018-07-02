@@ -1,5 +1,0 @@
-The "smolavali" folder should be renamed to the name that the "kind" value in your.species file is set to.
-Here you aren't obligated to rename the folder but by convention all the codex files that are realted to your race
-should be contained in the codex folder with the name of your race.
-
-For example, if your race id/kind is "trols", the folder would be renamed to "trols"
