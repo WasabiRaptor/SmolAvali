@@ -1,11 +1,11 @@
 {
   "author" : "Wasabi_Raptor",
-  "description" : "Avali but smol\n\nthe forums pages \nhttps://community.playstarbound.com/resources/smol-avali.5419/\n\nalso requires Avali triage so you'll need that\nhttps://community.playstarbound.com/resources/avali-triage.2852/\n",
+  "description" : "Avali but smol\n\nthe forums pages \nhttps://community.playstarbound.com/resources/smol-avali.5419/\n\nalso requires Avali triage so you'll need that\nhttps://community.playstarbound.com/resources/avali-triage.2852/\n\nthe hitbox in the mod is smaller than the normal player hitbox with it being 1x2.5 for the Smol Avali but if you want that to be 1x2 and don't mind your head clipping into blocks then I got this for ya\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1429245178&tscn=1530534262",
   "friendlyName" : "SmolAvali",
   "link" : "steam://url/CommunityFilePage/1428129929",
   "name" : "SmolAvali",
   "priority" : 0,
   "steamContentId" : "1428129929",
   "tags" : "Species",
-  "version" : "1.1"
+  "version" : "1.2"
 }
