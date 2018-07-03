@@ -180,7 +180,7 @@
     {
       "drawables" : [
         {
-          "image" : "/cinematics/teleport/up_human.png:<frame>"
+          "image" : "/cinematics/teleport/up_smolavali.png:<frame>"
         }
       ],
       "animationFrames" : 4,
@@ -211,7 +211,7 @@
     {
       "drawables" : [
         {
-          "image" : "/cinematics/teleport/warpdown_human.png:<frame>"
+          "image" : "/cinematics/teleport/warpdown_smolavali.png:<frame>"
         }
       ],
       "animationFrames" : 4,
