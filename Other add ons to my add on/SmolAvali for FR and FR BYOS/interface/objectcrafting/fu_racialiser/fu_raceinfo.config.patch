@@ -1,0 +1,17 @@
+[{
+ 	"op": "add",
+ 	"path": "/raceInfo/-",
+ 	"value": {
+	    "race" : "smolavali",
+		"name" : "SmolAvali",
+		"petName" : "Cat",
+		"pet" : {"name" : "petcat", "unique" : false},
+		"starterTreasure" : {"name" : "avaliStarterTreasure", "unique" : true},
+		"captainschair" : {"name" : "avalicaptainschair", "unique" : true},
+		"fuelhatch" : {"name" : "avalifuelhatch", "unique" : true},
+		"shipdoor" : {"name" : "avalishipdoor", "unique" : true},
+		"shiplocker" : {"name" : "avalishiplocker", "unique" : true},
+		"techstation" : {"name" : "avalitechstation", "unique" : true},
+		"teleporter" : {"name" : "avaliteleporter", "unique" : true}
+	}
+}]

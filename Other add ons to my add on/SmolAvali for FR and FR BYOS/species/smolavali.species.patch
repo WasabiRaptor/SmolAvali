@@ -1,0 +1,35 @@
+[
+    { "op": "replace", 
+    "path" : "/charCreationTooltip/description" , 
+    "value" : ""
+    },
+    { "op": "replace", 
+    "path" : "/charCreationTooltip/description" , 
+    "value" : "Fun Fact! Avali are only about a meter tall. This means that they have much less health than the other races, but being so light they take much less fall damage.
+
+ Diet: Omnivore 
+ 
+ ^orange;Perks^reset;:
+ Smol: only ^green;2.5^reset; blocks tall 
+ +^green;9%^reset; Jump, +^green;9%^reset; Speed
+ Slow Fall (wings)
+ Resist: ^green;40%^reset; Ice, -^green;85%^reset; Fall Dmg
+ Immune: Snow, Ice
+ 
+ ^orange;Environment^reset;: 
+ On ^green;hot^reset; biomes lose air damage bonus, speed bonus and -^red;25%^reset; health
+ On ^green;cold^reset;biomes gain +^green;5%^reset; speed and +^green;15%^reset; health
+ High winds grant additional agility
+ 
+ ^orange;Weapons^reset;:
+ +^green;10%^reset; airborne damage
+ Energy: +^green;12%^reset; Dmg
+ Grenade Launcher: +^green;20%^reset; Crit Dmg
+ Spear: +^green;2%^reset; Crit
+ 
+ ^red;Weaknesses^reset;:
+ Smol: -^red;35%^reset; Health, 
+ Weak: -^red;40%^reset; Fire" 
+
+    }
+]

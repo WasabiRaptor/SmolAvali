@@ -1,0 +1,6 @@
+[
+    [{ "op": "test", "path": "/speciesShips/smolavali"},
+    {"op":"replace","path":"/speciesShips/smolavali/0",
+    "value": "/ships/fu_byos/fu_byos.structure"}
+    ]
+]
