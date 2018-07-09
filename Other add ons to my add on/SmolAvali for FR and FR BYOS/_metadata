@@ -2,8 +2,10 @@
   "author" : "Wasabi_Raptor",
   "description" : "SmolAvali Frackin Races patch https://steamcommunity.com/sharedfiles/filedetails/?id=1428129929",
   "friendlyName" : "SmolAvali Frackin Races patch",
+  "link" : "steam://url/CommunityFilePage/1430181825",
   "name" : "SmolAvali Frackin Races patch",
   "priority" : 1,
-  "tags" : "",
+  "steamContentId" : "1430181825",
+  "tags" : "Miscellaneous",
   "version" : "1.0"
 }
