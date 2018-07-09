@@ -5,7 +5,7 @@
     },
     { "op": "replace", 
     "path" : "/charCreationTooltip/description" , 
-    "value" : "Fun Fact! Avali are only about a meter tall. This means that they have much less health than the other races, but being so light they take much less fall damage.
+    "value" : "Fun Fact! Avali are only about a meter tall. This means that they have less health, but by being smol they take less fall damage.
 
  Diet: Omnivore 
  
