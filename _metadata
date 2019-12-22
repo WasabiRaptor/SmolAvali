@@ -1,11 +1,11 @@
 {
   "author" : "Wasabi_Raptor",
-  "description" : "Avali but smol\n\nand with Avali Objects+ built in now woot!\n\nthe forums pages \nhttps://community.playstarbound.com/resources/smol-avali.5419/\n\nalso requires Avali triage so you'll need that\nhttps://community.playstarbound.com/resources/avali-triage.2852/\n\nHeres the patch to add it to FR and FU BYOS with similar stat changes to the Avali but with reduced health and fall damage due to their smol size\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1430181825\n\nthe hitbox in the mod is smaller than the normal player hitbox with it being 1x2.5 for the Smol Avali but if you want that to be 1x2 and don't mind your head clipping into blocks then I got this for ya\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1428129929",
+  "description" : "Avali but smol\n\nAvali Objects+ built in for that good inspecting text\n\nNow with new content! versions prior to 1.5 lacked clothes that would fit the Smol Avali, but they now finally have a few pieces of clothing for them, but not many, I am lazy, the sprites for the clothes that are in were drawn by @Lukea153\n\nThough this is still largely unfinished, Smol Avali should now be able to be valid teanants.\n\nSmol Avali also will have their own Smol distortion spheres, but at the moment these are unfinished, and only exist as standalone techs which cannot be purchased, but I intend to have them just be special cases for smol species when used by the normal tech\n\nthe two WIP yet functional smol distortion sphere variants can be accessed by the admin command \"/enabletech smoldistortionsphere\" or  \"/enabletech smolaquasphere\" but in future versions they will merely be overwriting the original techs but only for the smol species\n\nthe forums pages \nhttps://community.playstarbound.com/resources/smol-avali.5419/\n\nalso requires Avali triage so you'll need that\nhttps://community.playstarbound.com/resources/avali-triage.2852/\n\nHeres the patch to add it to FR and FU BYOS with similar stat changes to the Avali but with reduced health and fall damage due to their smol size\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1430181825\n\nthe hitbox in the mod is smaller than the normal player hitbox with it being 1x2.5 for the Smol Avali but if you want that to be 1x2 and don't mind your head clipping into blocks then I got this for ya\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1428129929",
   "friendlyName" : "SmolAvali",
   "link" : "steam://url/CommunityFilePage/1428129929",
   "name" : "SmolAvali",
   "priority" : 0,
   "steamContentId" : "1428129929",
-  "tags" : "Species",
-  "version" : "1.4"
+  "tags" : "Miscellaneous|Species|Character Improvements|Mechanics|Armor and Clothes",
+  "version" : "1.5"
 }
