@@ -1,8 +1,8 @@
 {
   "itemName" : "smolavaliarmor2head",
+  "price" : 105,
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
-  "price" : 105,
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "^green;Smol Avali, Head Slot. ^white; A lightweight headset HUD popular amongst explorers.",

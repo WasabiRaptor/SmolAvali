@@ -1,25 +1,16 @@
 {
-  "itemName" : "smolavaliracial1chest",
-  "inventoryIcon" : "icons.png:chest",
-  "maxStack" : 1,
+  "itemName" : "smolavaliracial1pants",
   "price" : 20,
+  "inventoryIcon" : "icons.png:pants",
+  "maxStack" : 1,
   "rarity" : "Common",
-  "category" : "chestwear",
-  "description" : "A gold-trimmed shoulder wrap, popular amongst Avali commoners.",
-  "shortdescription" : "Trimmed Shoulder Wrap",
+  "category" : "legwear",
+  "description" : "Yo dawg, herd you like skirts, so I got you a skirt to wear over your skirt...",
+  "shortdescription" : "Trimmed Wrap",
   "tooltipKind" : "armor",
 
-  "maleFrames" : {
-    "body" : "chestm.png",
-    "backSleeve" : "bsleeve.png",
-    "frontSleeve" : "fsleeve.png"
-  },
-
-  "femaleFrames" : {
-    "body" : "chestm.png",
-    "backSleeve" : "bsleeve.png",
-    "frontSleeve" : "fsleeve.png"
-  },
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
 
   "colorOptions" : [
     /* GREY */

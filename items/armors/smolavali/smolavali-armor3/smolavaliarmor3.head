@@ -1,8 +1,8 @@
 {
   "itemName" : "smolavaliarmor3head",
+  "price" : 170,
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
-  "price" : 170,
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "^green;Smol Avali, Head Slot. ^white; Full face armour with integrated HUD, standard amongst frontline soldiers.",

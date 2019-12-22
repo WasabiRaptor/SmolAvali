@@ -1,8 +1,8 @@
 {
   "itemName" : "smolavaliarmor3pants",
+  "price" : 250,
   "inventoryIcon" : "icons.png:pants",
   "maxStack" : 1,
-  "price" : 250,
   "rarity" : "Common",
   "category" : "legwear",
   "description" : "^green;Smol Avali, Leg Slot. ^white; Features a powered exoskeleton, allowing the user to perform ballet in full combat armour.",
