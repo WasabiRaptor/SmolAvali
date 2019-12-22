@@ -1,0 +1,50 @@
+{
+  "name" : "smoldistortionsphere",
+  "type" : "head",
+
+  "scripts" : ["distortionsphere.lua"],
+  "animator" : "smoldistortionsphere.animation",
+
+  "description" : "Turn into a smol-er sphere that can fit into smaller places! ^green;[F]",
+  "shortDescription" : "Smol Distortion Sphere",
+  "rarity" : "Uncommon",
+  "icon" : "/tech/distortionsphere.png",
+
+  "chipCost" : 8,
+
+  "animationParts" : {
+    "ballGlow" : "smoldistortionsphereglow.png",
+    "ball" : "smoldistortionsphere.png"
+  },
+
+  "transformedMovementParameters" : {
+    "collisionPoly" : [ [-0.45, -0.25], [-0.45, -0.25], [0.25, -0.45], [0.45, -0.25], [0.45, 0.25], [0.45, 0.25], [-0.45, 0.25], [-0.45, 0.25] ],
+
+    "groundForce" : 225.0,
+    "normalGroundFriction" : 1.5,
+    "ambulatingGroundFriction" : 0.2,
+    "slopeSlidingFactor" : 3.0,
+
+    "airJumpProfile" : {
+      "jumpSpeed" : 16,
+      "jumpControlForce" : 800.0,
+      "jumpInitialPercentage" : 1.0,
+      "jumpHoldTime" : 0.1
+    },
+
+    "liquidJumpProfile" : {
+      "jumpSpeed" : 0.0,
+      "jumpControlForce" : 0.0,
+
+      "multiJump" : false,
+      "autoJump" : false
+    }
+  },
+
+  "ballSpeed" : 14,
+
+  "energyCost" : 50,
+
+  "ballRadius" : 0.5,
+  "ballFrames" : 8
+}
