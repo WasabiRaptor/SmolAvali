@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "^green;Smol Avali, Head Slot. ^white; Full face armour with integrated HUD, standard amongst frontline soldiers.",
-  "shortdescription" : "Combat Helmet",
+  "shortdescription" : "Smol Combat Helmet",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

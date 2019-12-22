@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "fabric", "count" : 3 },
+  { "item" : "copperbar", "count" : 1 }
+  ],
+  "output" : { "item" : "smolavaliracial1pants", "count" : 1 },
+  "groups" : [ "avaliloom", "armors", "chest" ]
+}

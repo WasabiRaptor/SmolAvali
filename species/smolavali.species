@@ -4,13 +4,13 @@
 	"charCreationTooltip" : {
 		"title" : "Smol Avali",
 		"subTitle" : "Avali but smol",
-		"description" : "Fun Fact, Avali are only about a meter tall. So what gives? are the rest of those Avali using some growth tech to become larger? are they ashamed of their true size? either way you know you're smol, and you're proud of it." 
+		"description" : "Fun Fact, Avali are only about a meter tall. So what gives? are the rest of those Avali using some growth tech to become larger? are they ashamed of their true size? either way you know you're smol, and you're proud of it."
 	},
 
 	"humanoidConfig" : "/species/smolavalibodyconfig.config",
 	"nameGen" : [ "/species/smolavalinamegen.config:names", "/species/smolavalinamegen.config:names" ],
 	"ouchNoises" : [ "/sfx/humanoid/avalihurt.ogg", "/sfx/humanoid/avalihurt.ogg" ],
-	"charGenTextLabels" : [ "Fluff color", "Plumage", "N/A", "N/A", "Trim color", "Feather color", "N/A", "N/A", "Smol Avali", "N/A" ],
+	"charGenTextLabels" : [ "Fluff color", "Plumage", "Sleeves", "Outfit", "Trim color", "Feather color", "Sleeves color", "Outfit color", "Smol Avali", "N/A" ],
 	"skull" : "/humanoid/smolavali/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFC5AF?replace=9bd4ffFF=FFA683?replace=31a6ffFF=FF733D",
 	"defaultBlueprints" : {
@@ -182,7 +182,13 @@
       { "item" : "avaliutilitylight8" },
       { "item" : "aerogelcompositerail" },
       { "item" : "aerogelrail" },
-      { "item" : "aerogelrailplatform" }
+      { "item" : "aerogelrailplatform" },
+// smolavalithings
+      { "item" : "smolavaliracial1chest" },
+      { "item" : "smolavaliracial1pants" },
+      { "item" : "smolavaliarmor3head" },
+      { "item" : "smolavaliarmor3pants" },
+      { "item" : "smolavaliarmor2head" }
     ]
   },
 
@@ -199,20 +205,20 @@
 			//the image used to represent the selected sex in the character creation interface
 			"image" : "/interface/title/male.png",
 
-			//the image used to represent the race in the character creation interface 
+			//the image used to represent the race in the character creation interface
 			"characterImage" : "/interface/title/smolavalimale.png",
 
 			//The available hair options. these are the name of the files in the hair folder withouth the extention
 			"hair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19"], //  "hair2cut" "hair9cut"
 
-      "shirt" : [ "maskchest" ],
-      "pants" : [ "maskpants" ],
+      "shirt" : [ "maskchest", "smolavaliracial1chest" ],
+      "pants" : [ "maskpants", "smolavaliracial1pants", "smolavaliarmor3pants" ],
 			"facialHairGroup" : "",
 
 			"facialHair" : [ ],
-			
+
 			"facialMaskGroup" : "",
-			
+
 			"facialMask" : [ ]
 		},
 		{
@@ -221,8 +227,8 @@
 			"image" : "/interface/title/female.png",
 			"characterImage" : "/interface/title/smolavalifemale.png",
 			"hair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19" ], //  "hair2cut" "hair9cut"
-			"shirt" : [ "maskchest" ],
-			"pants" : [ "maskpants" ],
+      "shirt" : [ "maskchest", "smolavaliracial1chest" ],
+      "pants" : [ "maskpants", "smolavaliracial1pants", "smolavaliarmor3pants" ],
 			"facialHairGroup" : "",
 			"facialHair" : [ ],
 			"facialMaskGroup" : "",

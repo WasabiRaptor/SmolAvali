@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "legwear",
   "description" : "^green;Smol Avali, Leg Slot. ^white; Features a powered exoskeleton, allowing the user to perform ballet in full combat armour.",
-  "shortdescription" : "Combat Armour",
+  "shortdescription" : "Smol Combat Armour",
   "tooltipKind" : "armor",
 
   "maleFrames" : "pants.png",

@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "^green;Smol Avali, Head Slot. ^white; A lightweight headset HUD popular amongst explorers.",
-  "shortdescription" : "Scout's HUD",
+  "shortdescription" : "Smol Scout's HUD",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
