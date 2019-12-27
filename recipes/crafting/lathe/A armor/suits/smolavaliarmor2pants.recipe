@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 4  },
+    { "item" : "fabric", "count" : 3  },
+    { "item" : "avaligraphene", "count" : 3  }
+  ],
+  "output" : { "item" : "smolavaliarmor2pants", "count" : 1 },
+  "groups" : [ "armors", "avalilathe", "all" ]
+}

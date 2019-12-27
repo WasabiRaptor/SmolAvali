@@ -1,4 +1,4 @@
-
+{
   "input" : [
     { "item" : "tungstenbar", "count" : 5  },
     { "item" : "fabric", "count" : 3  },
