@@ -212,7 +212,7 @@
 			"hair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19"], //  "hair2cut" "hair9cut"
 
       "shirt" : [ "maskchest", "smolavaliracial1chest", "smolavaliracial2chest" ],
-      "pants" : [ "maskpants", "smolavaliracial1pants", "smolavaliracial2pants", "smolavaliracial2set" ],
+      "pants" : [ "maskpants", "smolavaliracial1pants", "smolavaliracial2pants", "smolavaliracial2set", "smolavaliset5pants" ],
 			"facialHairGroup" : "",
 
 			"facialHair" : [ ],
@@ -228,7 +228,7 @@
 			"characterImage" : "/interface/title/smolavalifemale.png",
 			"hair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19" ], //  "hair2cut" "hair9cut"
       "shirt" : [ "maskchest", "smolavaliracial1chest", "smolavaliracial2chest" ],
-      "pants" : [ "maskpants", "smolavaliracial1pants", "smolavaliracial2pants", "smolavaliracial2set" ],
+      "pants" : [ "maskpants", "smolavaliracial1pants", "smolavaliracial2pants", "smolavaliracial2set", "smolavaliset5pants" ],
 			"facialHairGroup" : "",
 			"facialHair" : [ ],
 			"facialMaskGroup" : "",
