@@ -4,7 +4,7 @@
 	"charCreationTooltip" : {
 		"title" : "Smol Avali",
 		"subTitle" : "Avali but smol",
-		"description" : "Fun Fact, Avali are only about a meter tall. So what gives? are the rest of those Avali using some growth tech to become larger? are they ashamed of their true size? either way you know you're smol, and you're proud of it."
+		"description" : "Fun Fact, Avali are less than a meter tall. So what gives? are the rest of those Avali using some growth tech to become larger? are they ashamed of their true size? either way you know you're smol, and you're proud of it."
 	},
 
 	"humanoidConfig" : "/species/smolavalibodyconfig.config",
