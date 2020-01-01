@@ -10,7 +10,7 @@
 	"humanoidConfig" : "/species/smolavalibodyconfig.config",
 	"nameGen" : [ "/species/smolavalinamegen.config:names", "/species/smolavalinamegen.config:names" ],
 	"ouchNoises" : [ "/sfx/humanoid/avalihurt.ogg", "/sfx/humanoid/avalihurt.ogg" ],
-	"charGenTextLabels" : [ "Fluff color", "Plumage", "Sleeves", "Outfit", "Trim color", "Feather color", "Sleeves color", "Outfit color", "SMOL AAVALI", "Personality" ],
+	"charGenTextLabels" : [ "Fluff color", "Plumage", "Sleeves", "Outfit", "Trim color", "Feather color", "Sleeves color", "Outfit color", "Smol Avali", "N/A" ],
 	"skull" : "/humanoid/smolavali/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFC5AF?replace=9bd4ffFF=FFA683?replace=31a6ffFF=FF733D",
 	"defaultBlueprints" : {
